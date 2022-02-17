@@ -17,7 +17,7 @@
 <li class="has-line-data" data-line-start="15" data-line-end="16">переместить любые 2 файла, которые вы создали, в любую другую папку.— mv test1.txt test2.txt …/f_2/</li>
 <li class="has-line-data" data-line-start="16" data-line-end="17">скопировать любые 2 файла, которые вы создали, в любую другую папку.— cp test5.json test2.txt ./case_3</li>
 <li class="has-line-data" data-line-start="17" data-line-end="18">Найти файл по имени ----find  &quot; file.txt&quot;</li>
-<li class="has-line-data" data-line-start="18" data-line-end="19">просмотреть содержимое в реальном времени (команда grep) изучите как она работает. — tail -f file_name (работает! делала именно этой командой, не grep)</li>
+<li class="has-line-data" data-line-start="18" data-line-end="19">просмотреть содержимое в реальном времени (команда grep) изучите как она работает. — tail -f file_name </li>
 <li class="has-line-data" data-line-start="19" data-line-end="20">вывести несколько первых строк из текстового файла — head -n2 test1.txt</li>
 <li class="has-line-data" data-line-start="20" data-line-end="21">вывести несколько последних строк из текстового файла  — tail -n4 test1.txt</li>
 <li class="has-line-data" data-line-start="21" data-line-end="22">просмотреть содержимое длинного файла (команда less) изучите как она работает. — less test3.txt (чтобы выйти нажать q)</li>
